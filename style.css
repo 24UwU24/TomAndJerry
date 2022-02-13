@@ -1,0 +1,67 @@
+.photo{
+    width:60px;
+    height:60px;
+    }
+header{
+    background-color: midnightblue;
+    margin:4px;
+    display:flex;
+}
+header h1{
+    text-align:center;
+    font-size:20px;
+    font-family:sans-serif;
+}
+main h2{
+    text-align: center;
+    color:red;
+    font-family:sans-serif;
+}
+main p{
+    font-family: Segoe UI;
+}
+nav{
+    background-color: MediumSlateBlue;
+}
+nav a{
+    text-decoration: none;
+    color:red;
+    margin:100px;
+
+}
+h3{
+    text-align: center;
+    color:orangered;
+}
+.fotp{
+    color:darkviolet;
+    font-size:20px;
+    border:2px solid white;
+    border-radius:20px;
+}
+footer{
+    background-color: black;
+}
+footer img{
+    width:50px;
+    height:50px;
+    position:absolute;top:700px;left:95%;
+}
+main img{
+    widht:100px;
+    height:100px;
+}
+footer a{
+    text-decoration: none;
+
+}
+.insta{
+    color:royalblue;
+    font-size:25px;
+    margin:50px;
+}
+.teleg{
+    color:blue;
+    font-size:25px;
+    margin:50px;
+}
